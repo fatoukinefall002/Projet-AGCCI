@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+}
+.conteneur{
+    background-image: url(c:\Users\fatou\Downloads\images.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    color: white;
